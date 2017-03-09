@@ -18,7 +18,12 @@ Gameplay
 
 Features
 1.	Load characters and make them visible onscreen
+
 2.	Provide a way for the user to affect the position of a paddle (or some such)
+
 3.	Define how characters move onscreen
+
 4.	Define how characters react when they collide with each other
+
 5.	Define a scoring method
+
